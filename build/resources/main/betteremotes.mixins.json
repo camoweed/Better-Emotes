@@ -1,0 +1,16 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "camoweed.BetterEmotes.mixins",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+      "ChatEmotesMixin",
+      "EmotePickerMixin",
+      "ScreenChatMixin"
+    ],
+    "client": [
+    ],
+    "injectors": {
+        "defaultRequire": 1
+  }
+}

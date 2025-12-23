@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "betteremotes",
+  "version": "${version}",
+
+  "name": "•◘○» ☯ Better Emotes ☮ «○◘•",
+  "description": "§<9C4F96>Greatly §<FF6355>expands §<FBA949>the §<FAE442>emote§<8BD448> selection§r § ⌂ ☹ ⚠ ☮ ☯ ⚔  \uE9EA \uEA93 \uF327 \uF525 \uF30A \uF5E1 \uF3F9 \uF531 \uF3A3 ⚓ ☔ ☄ ☃ ❣ ✎ ⛈ ☆ ★ ☑ ☐ ☒ ⚀ ⚁ ⚂ ⚃ ⚄ ⚅ ⚥ ♩ ♬ ♭ ♯ ♮ ⅛ ⅜ ⅝ ⅞ ⅝ ⅔ ½ ¼ ⅐ ⅑ ⅕ ⅖ ⅗ ⅙ ⅚ ⅟ ↉ ∓ − ≡ ± ≥ ≤ ⌠ ⌡ ÷ ≈ √ ⁿ ⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹ ⏩ ⏪ ⏭ ⏮ ⏯ ⏴ ⏵ ⏶ ⏷ ⏸ ⏹ ⏺ ⏻ ⏼ ⏽ ⭘ α β Γ π Σ σ μ τ Φ Θ Ω δ ∞ ∅ ∈ ∩ ⓪ ① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⑩ ⑪ ⑫ ⑬ ⑭ ⑮ ⑯ ⑰ ⑱ ⑲ ⑳ Ⓐ Ⓑ Ⓒ Ⓓ Ⓔ Ⓕ Ⓖ Ⓗ Ⓘ Ⓙ Ⓚ Ⓛ Ⓜ Ⓝ Ⓞ Ⓟ Ⓠ Ⓡ Ⓢ Ⓣ Ⓤ Ⓥ Ⓦ Ⓧ Ⓨ Ⓩ ⓐ ⓑ ⓒ ⓓ ⓔ ⓕ ⓖ ⓗ ⓘ ⓙ ⓚ ⓛ ⓜ ⓝ ⓞ ⓟ ⓠ ⓡ ⓢ ⓣ ⓤ ⓥ ⓦ ⓧ ⓨ ⓩ ᴀ ʙ ᴄ ᴅ ᴇ ꜰ ɢ ʜ ᴊ ᴋ ʟ ᴍ ɴ ᴏ ᴘ ꞯ ʀ ꜱ ᴛ ᴜ ᴠ ᴡ ʏ ᴢ ₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉ ░ ▒ ▓ █ │ ┤ ┐ └ ┴ ┬ ├ ─ ┼ ┘ ┌ ║ ╢ ╗ ╚ ╩ ╦ ╠ ═ ╬ ╝ ╔ ╡ ╕ ╘ ╧ ╤ ╞ ╧ ╪ ╜ ╓ █ ▄ ▌ ▐ ▀ • ○ ◙ ◘ ■ ● ◦ □ △ ▷ ▽ ◁ ◆ ◇ ◎ ☼ ¶ ® © ™ ℗ « » ▬ ⇒ ⇏ ⇔ ⇵ ↕ ↨ ↔ ∟ ► ◄ ▲ ▼ ✘ ⛨ ⏏ ⯪ ⯫ ⋆ ʬ ‼ ¡ ⸵ ⸮ † ⸸ ‡ ⹋ ♤ ♧ ♡ ♢ \uE34A",
+  "authors": [
+    "camoweed_"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+	"icon": "icon.png",
+  "license": "CC0-1.0",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+			"camoweed.BetterEmotes.BetterEmotes"
+    ],
+		"beforeGameStart": [
+			"camoweed.BetterEmotes.BetterEmotes"
+		],
+		"afterGameStart": [
+			"camoweed.BetterEmotes.BetterEmotes"
+		],
+		"recipesReady": [
+			"camoweed.BetterEmotes.BetterEmotes"
+		]
+	},
+  "mixins": [
+      "betteremotes.mixins.json"
+  ],
+
+  "depends": {
+		"minecraft": "*",
+    "fabricloader": ">=0.15.5"
+  },
+  "suggests": {
+  }
+}
