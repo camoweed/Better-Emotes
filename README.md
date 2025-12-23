@@ -11,4 +11,6 @@
 │<br>
 └» Client side ☮<br>
 
-<img width="333" height="333" alt="better-emotes" src="https://github.com/user-attachments/assets/1290531c-ee4f-44ce-9bd9-b5d5ce563971" />
+<img width="333" ![showcase](https://github.com/user-attachments/assets/c60ec95d-c351-4e66-8b0b-4bd75659e20e)
+
+height="333" alt="better-emotes" src="https://github.com/user-attachments/assets/1290531c-ee4f-44ce-9bd9-b5d5ce563971" />
