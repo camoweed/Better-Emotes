@@ -1,5 +1,5 @@
 ʙᴇᴛᴛᴇʀ ᴇᴍᴏᴛᴇꜱ is a babric mod for BTA! which allows you to insert unique emote unicode characters.
-<br>
+<br><br>
 » Emote selector expanded ☑<br>
    29 to 320 ‼<br>
 <br>
@@ -79,4 +79,5 @@ Default config file
 	Mathematics = false
 	#                              
 	StandardGalaticAlphabet = false```
+
 
