@@ -1,6 +1,4 @@
-Better Emotes is a babric mod for BTA! which allows you to insert unique emote unicode characters.
-<br>
- ʙᴇᴛᴛᴇʀ ᴇᴍᴏᴛᴇꜱ<br>
+ʙᴇᴛᴛᴇʀ ᴇᴍᴏᴛᴇꜱ is a babric mod for BTA! which allows you to insert unique emote unicode characters.
 <br>
 » Emote selector expanded ☑<br>
    29 to 320 ‼<br>
@@ -81,3 +79,4 @@ Default config file
 	Mathematics = false
 	#                              
 	StandardGalaticAlphabet = false```
+
