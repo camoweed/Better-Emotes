@@ -9,5 +9,8 @@
 » Easily access emotes ✎<br>
 <br>
 » Client side ☮<br>
+<br>
+» Configurable ♬<br>
 
 ![showcase](https://github.com/user-attachments/assets/dd87cc36-22f5-434a-9e3c-7e0423b1a9e1)
+
