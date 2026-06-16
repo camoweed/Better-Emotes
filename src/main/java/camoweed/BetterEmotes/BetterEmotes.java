@@ -3,13 +3,14 @@ package camoweed.BetterEmotes;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import turniplabs.halplibe.HalpLibe;
 import turniplabs.halplibe.util.GameStartEntrypoint;
 import turniplabs.halplibe.util.RecipeEntrypoint;
 import turniplabs.halplibe.util.TomlConfigHandler;
 import turniplabs.halplibe.util.toml.Toml;
 
 public class BetterEmotes implements ModInitializer, RecipeEntrypoint, GameStartEntrypoint {
-	public static final String MOD_ID = "moreemotes";
+	public static final String MOD_ID = HalpLibe.registerMod("betteremotes");
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	public static final TomlConfigHandler CFG;
